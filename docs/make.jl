@@ -20,4 +20,4 @@ deploydocs(;
     repo="github.com/bradlindblad/Janitor.jl",
 )
 using DocumenterTools
-DocumenterTools.genkeys(Janitor)
+# DocumenterTools.genkeys(Janitor)
