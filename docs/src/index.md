@@ -9,6 +9,7 @@ CurrentModule = Janitor
 
 ## Functions
 
+
 ```@docs
 fun(x)
 ```
