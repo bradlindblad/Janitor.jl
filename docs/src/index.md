@@ -4,7 +4,7 @@ CurrentModule = Janitor
 
 # Janitor.jl Documentation
 
-```@index
+```@contents
 ```
 
 ## Functions
@@ -12,4 +12,11 @@ CurrentModule = Janitor
 
 ```@docs
 fun(x)
+```
+
+
+
+## Index
+
+```@index
 ```

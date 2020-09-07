@@ -9,7 +9,6 @@ export fun
 
 Cool fn for sure
 """
-
 function fun(x)
     println("whoa")
 end
