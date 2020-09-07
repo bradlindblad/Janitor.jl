@@ -2,11 +2,12 @@
 CurrentModule = Janitor
 ```
 
-# Janitor
+# Janitor.jl Documentation
 
 ```@index
 ```
 
+## Functions
 ```@autodocs
 Modules = [Janitor]
 ```
