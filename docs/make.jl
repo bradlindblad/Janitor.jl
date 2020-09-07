@@ -19,3 +19,5 @@ makedocs(;
 deploydocs(;
     repo="github.com/bradlindblad/Janitor.jl",
 )
+using DocumenterTools
+DocumenterTools.genkeys(Janitor)

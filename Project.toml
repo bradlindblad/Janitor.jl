@@ -3,6 +3,9 @@ uuid = "6fbab5e2-2cac-4c2f-8e5b-247d81f6ea53"
 authors = ["Brad <bradley.lindblad@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
+
 [compat]
 julia = "1.3"
 
