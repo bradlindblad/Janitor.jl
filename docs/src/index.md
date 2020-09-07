@@ -8,6 +8,9 @@ CurrentModule = Janitor
 ```
 
 ## Functions
-```@autodocs
+<!-- ```@autodocs
 Modules = [Janitor]
+``` -->
+```@doc
+fun(x)
 ```
