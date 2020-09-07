@@ -10,6 +10,6 @@ CurrentModule = Janitor
 ## Functions
 
 
-```docs
+```@docs
 fun(x)
 ```
