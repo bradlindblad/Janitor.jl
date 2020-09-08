@@ -11,7 +11,7 @@ CurrentModule = Janitor
 
 
 ```@docs
-fun(x)
+describe_class(object)
 ```
 
 
