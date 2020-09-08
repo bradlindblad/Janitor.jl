@@ -2,16 +2,10 @@ module Janitor
 
 # Write your package code here.
 
-export fun
+using DataFrames
 
-"""
-    fun(x)
+export describe_class
 
-Cool fn for sure.
-"""
-function fun(x)
-    println("whoa")
-end
-
+include("describe_class.jl")
 
 end
